@@ -1,8 +1,10 @@
 <h1 align="center">Doğal Dil İşlemeye (NLP) Giriş </h1>
 
+<p align="center">
 <a href="https://miuul.com/?gclid=CjwKCAjwx7GYBhB7EiwA0d8oe8TRRAlu55MTvYmlvtzLStKnrysfyr0f0HTtDYKfB4tS8tkPNFTRShoChxkQAvD_BwE">
 <img src="https://www.miuul.com/image/theme/logo-white.png">
 </a>
+</p>
 
 * Miuul tarafından verilen "Doğal Dil İşlemeye Giriş" kursu kapsamında tuttuğum notları ve verilen projeleri bu repo içerisinde bulabilirsiniz. 
 
